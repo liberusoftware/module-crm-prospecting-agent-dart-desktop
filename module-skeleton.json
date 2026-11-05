@@ -1,0 +1,15 @@
+{
+  "repository": "module-crm-prospecting-agent-dart-desktop",
+  "capabilityKey": "liberusoftware/module-crm-prospecting-agent",
+  "presentation": "dart-desktop",
+  "package": "module_crm_prospecting_agent_dart_desktop",
+  "foundation": "module-boilerplate-dart-desktop",
+  "foundationCommit": "5ccb3f077d7279dad684f2aa24e4c9d27f0d1246",
+  "canonicalPlan": "projects/crm/nextjs/prospecting-agent.md",
+  "presentationPlan": "projects/crm/features/prospecting-agent.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "crm"
+  ]
+}
